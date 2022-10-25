@@ -1,0 +1,17 @@
+2learnweb.brookhavencollege.edu
+port 22
+RobinWilliams
+gHgqsd2e
+
+https://2learnweb.brookhavencollege.edu/RobinWilliams/faqs.html
+
+--never use tables for layouts in CSS at all
+--tables should always be tabular data
+--DO layout with floats; the paragraphs to float next to the image or the image float to the side of the text
+--img.wrap try to do the D like this
+--Use box sizing model with content box and show how to float the image on the page
+DO NOT substitutes tables for floats; 
+--learn how to clear the floats so the footer is not in the header
+--put both things in a section tag and treat each section like a container and put the box stacked on the page
+--Try to have assignment submitted by Saturday; By Tuesday he will grade the assignment and resubmit it the following Sunday Night
+   -You can only submit it one more time
